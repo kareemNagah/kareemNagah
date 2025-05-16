@@ -29,7 +29,7 @@
 ```bash
 #!/bin/bash
 
-echo "📍 Location: Cairo, Egypt"
+echo "📍 Location: Mansoura, Egypt"
 echo "🗣️  Languages: Arabic, English"
 echo "💼 Job Title : Data & Machine Learning Engineer"
 echo "🛠️  Specialization : Building scalable data pipelines & ML solutions"
