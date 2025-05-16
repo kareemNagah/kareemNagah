@@ -29,17 +29,17 @@
 ```bash
 #!/bin/bash
 
-echo "📍 Location        : Cairo, Egypt"
-echo "🗣️  Languages      : Arabic, English"
-echo "💼 Job Title       : Data & Machine Learning Engineer"
+echo "📍 Location: Cairo, Egypt"
+echo "🗣️  Languages: Arabic, English"
+echo "💼 Job Title : Data & Machine Learning Engineer"
 echo "🛠️  Specialization : Building scalable data pipelines & ML solutions"
-echo "🎯 Interests       : AI, Data Engineering "
-echo "🎮 Hobbies         : Tech blogging, football, coding marathons"
-echo "🎓 Education       : B.Eng. in Artificial Intelligence Engineering @ Mansoura University"
-echo "🤝 Approachable    : Absolutely! Let's collaborate on something awesome 🚀"
-echo "💪 Strength        : Relentless curiosity and problem-solving mindset"
-echo "🫣 Weakness        : Can’t resist refactoring code that already works"
-echo "🚀 Mission         : Helping businesses unlock the full potential of their data"
+echo "🎯 Interests: AI, Data Engineering "
+echo "🎮 Hobbies: Tech blogging, football, coding marathons"
+echo "🎓 Education: B.Eng. in Artificial Intelligence Engineering @ Mansoura University"
+echo "🤝 Approachable: Absolutely! Let's collaborate on something awesome 🚀"
+echo "💪 Strength: Relentless curiosity and problem-solving mindset"
+echo "🫣 Weakness: Can’t resist refactoring code that already works"
+echo "🚀 Mission: Helping businesses unlock the full potential of their data"
 ```
 
 </div>
@@ -68,10 +68,9 @@ echo "🚀 Mission         : Helping businesses unlock the full potential of the
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="30px" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
       <img width="30px" alt="postgresql" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img width="30px" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-      <img width="30px" alt="redis" title="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
     </kbd>
     <br>
     <br>
@@ -79,17 +78,17 @@ echo "🚀 Mission         : Helping businesses unlock the full potential of the
       <kbd>Data Science & AI</kbd>
       <br>
       <br>
-      <img width="30px" alt="matlab" title="matlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="30px" alt="tensorflow" title="tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+      <img width="30px" alt="PyTorch" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
       <img width="30px" alt="numpy" title="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
       <img width="30px" alt="pandas" title="pandas" src="https://cdn.simpleicons.org/pandas/white" />
+      <img width="30px" alt="Matplot" title="Matplot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+      <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+      <img width="30px" alt="Scikit-learn" title="Scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
     </kbd>
     <kbd>
-      <kbd>VCS & Devops</kbd>
+      <kbd>Devops</kbd>
       <br>
       <br>
-      <img width="30px" alt="aws" title="aws" src="https://cdn.simpleicons.org/amazonaws/white" />
-      <img width="30px" alt="heroku" title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
       <img width="30px" alt="git" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
       <img width="30px" alt="docker" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     </kbd>
@@ -100,24 +99,20 @@ echo "🚀 Mission         : Helping businesses unlock the full potential of the
       <img width="30px" alt="bash" title="bash" src="https://cdn.simpleicons.org/gnubash/white" />
     </kbd>
     <kbd>
-      <kbd>Tools</kbd>
+      <kbd>Data Engineering & Big Data</kbd>
       <br>
       <br>
-      <img width="30px" alt="vim" title="vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-      <img width="30px" alt="vscode" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" alt="sublime" title="sublime" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-      <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" alt="pycharm" title="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" alt="rubymine" title="rubymine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
-      <img width="30px" alt="intellij" title="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img width="30px" alt="android studio" title="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-      <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+      <img width="30px" alt="AirFlow" title="AirFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
+      <img width="30px" alt="Hadoop" title="Hadoop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
+      <img width="30px" alt="Spark" title="Spark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
+      
+      
   </kbd>
      <kbd>
-      <kbd>Game Development</kbd>
+      <kbd>Cloud</kbd>
       <br>
       <br>
-      <img width="30px" alt="unity" title="unity" src="https://cdn.simpleicons.org/unity/white" />
+      <img width="30px" alt="Azure" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
     </kbd>
   </p>
 </div>
