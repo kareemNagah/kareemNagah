@@ -55,35 +55,14 @@ echo "🚀 Mission         : Helping businesses unlock the full potential of the
       <br>
       <br>
       <img width="30px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" alt="c++" title="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
+      <img width="30px" alt="C" title="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
       <img width="30px" alt="java" title="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width="30px" alt="js" title="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" alt="RoR" title="RoR" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-      <img width="30px" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="30px" alt="expressjs" title="expressjs" src="https://cdn.simpleicons.org/express/white" />
-      <img width="30px" alt="flask" title="flask" src="https://cdn.simpleicons.org/flask/white" />
-    </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30px" alt="kotlin" title="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="html5" title="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" alt="css3" title="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-      <img width="30px" alt="bootstrap" title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-      <img width="30px" alt="react" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30px" alt="jquery" title="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+      <img width="30px" alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
