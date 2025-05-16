@@ -12,7 +12,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="150" alt="Avatar" src="https://github.com/user-attachments/assets/f2ec3809-73b6-4044-9e38-d188da793cd5" alt="Avatar photo of Kareem Nagah">
+      <img height="175" alt="Avatar" src="https://github.com/user-attachments/assets/f2ec3809-73b6-4044-9e38-d188da793cd5" alt="Avatar photo of Kareem Nagah">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Kareem;aka+Kareem+Nagah;Welcome+to+my+profile!;Description+of+myself%3A;Data+Engineer;AI+Engineer;Confident+and+ambitious" alt="Typing SVG" /></a>
